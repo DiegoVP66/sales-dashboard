@@ -1,7 +1,5 @@
 import './styles.css';
 
-import React from 'react';
-
 function Header() {
   return (
     <header className="main-header-container">
